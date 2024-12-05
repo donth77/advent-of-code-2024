@@ -19,10 +19,8 @@ func processMulInstructions(input string, part1 bool) int {
 	part2Result := 0
 	enabled := true
 
-	// Go regex syntax is slightly different from JavaScript
 	regex := regexp.MustCompile(`mul\((\d+),(\d+)\)|do\(\)|don't\(\)`)
 
-	// Find all matches in the input string
 	matches := regex.FindAllStringSubmatch(input, -1)
 
 	for _, match := range matches {
@@ -33,7 +31,6 @@ func processMulInstructions(input string, part1 bool) int {
 		} else if instr == "don't()" {
 			enabled = false
 		} else {
-			// Convert string numbers to integers
 			num1, _ := strconv.Atoi(match[1])
 			num2, _ := strconv.Atoi(match[2])
 

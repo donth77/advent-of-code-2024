@@ -1,5 +1,4 @@
-```markdown
-# --- Day 5: Print Queue ---
+# Day 5: Print Queue
 
 Satisfied with their search on Ceres, the squadron of scholars suggests subsequently scanning the stationery stacks of sub-basement 17.
 
@@ -89,5 +88,3 @@ Reordered updates:
 - 47 (middle of `97,75,47,29,13`)
 
 **Sum of middle page numbers**: `47 + 29 + 47 = 123`.
-
-```

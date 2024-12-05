@@ -1,5 +1,4 @@
-```markdown
-# --- Day 4: Ceres Search ---
+# Day 4: Ceres Search 
 
 "Looks like the Chief's not here. Next!" One of The Historians pulls out a device and pushes the only button on it. After a brief flash, you recognize the interior of the Ceres monitoring station!
 
@@ -49,7 +48,7 @@ Take a look at the little Elf's word search. How many times does **XMAS** appear
 
 ---
 
-# --- Part Two ---
+## Part Two 
 
 The Elf looks quizzically at you. Did you misunderstand the assignment?
 
@@ -81,4 +80,3 @@ M.M.M.M.M.
 In this example, an **X-MAS** appears 9 times.
 
 Flip the word search from the instructions back over to the word search side and try again. How many times does an **X-MAS** appear?
-```

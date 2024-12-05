@@ -1,14 +1,15 @@
 package main
 
 import (
-// "main/day1"
-// "main/day2"
-// "main/day4"
-// "main/day5"
-// "main/day6"
-// "main/day7"
-// "main/day8"
-// "main/day9"
+// "main/day01"
+// "main/day02"
+// "main/day03"
+// "main/day04"
+"main/day05"
+// "main/day06"
+// "main/day07"
+// "main/day08"
+// "main/day09"
 // "main/day10"
 // "main/day11"
 // "main/day12"
@@ -27,11 +28,11 @@ import (
 )
 
 func main() {
-	// day1.ReadFile()
-	// day2.ReadFile()
+	// day01.ReadFile()
+	// day02.ReadFile()
 	// day3.ReadFile()
 	// day4.ReadFile()
-	// day5.ReadFile()
+	day5.ReadFile()
 	// day6.ReadFile()
 	// day7.ReadFile()
 	// day8.ReadFile()

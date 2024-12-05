@@ -15,7 +15,7 @@ import (
 )
 
 func ReadFile() {
-	file, err := os.Open("./day6/sample-input.txt")
+	file, err := os.Open("./day06/sample-input.txt")
 	if err != nil {
 		log.Fatal(err)
 	}

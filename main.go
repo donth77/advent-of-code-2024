@@ -5,11 +5,11 @@ import (
 // "main/day02"
 // "main/day03"
 // "main/day04"
-"main/day05"
+// "main/day05"
 // "main/day06"
 // "main/day07"
 // "main/day08"
-// "main/day09"
+ "main/day09"
 // "main/day10"
 // "main/day11"
 // "main/day12"
@@ -32,11 +32,11 @@ func main() {
 	// day02.ReadFile()
 	// day3.ReadFile()
 	// day4.ReadFile()
-	day5.ReadFile()
+	// day5.ReadFile()
 	// day6.ReadFile()
 	// day7.ReadFile()
 	// day8.ReadFile()
-	// day9.ReadFile()
+	 day9.ReadFile()
 	// day10.ReadFile()
 	// day11.ReadFile()
 	// day12.ReadFile()
